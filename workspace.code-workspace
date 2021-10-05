@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../hello-world /index.html"
+		},
+		{
+			"name": "web1-exercise-01-Rowanbiets",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web1-exercise-01-Rowanbiets"
+	}
+}
